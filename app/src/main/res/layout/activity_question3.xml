@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/question3TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/question_3"
+        android:textAppearance="@style/TextAppearance.Material3.TitleLarge"
+        android:layout_marginBottom="16dp"/>
+
+    <RadioGroup
+        android:id="@+id/question3RadioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/q3_option_a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/q3_option_a"
+            android:minHeight="48dp"/>
+
+        <RadioButton
+            android:id="@+id/q3_option_b"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/q3_option_b"
+            android:minHeight="48dp"/>
+
+        <RadioButton
+            android:id="@+id/q3_option_c"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/q3_option_c"
+            android:minHeight="48dp"/>
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/nextButton3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/next"
+        android:layout_marginTop="32dp"/>
+</LinearLayout>

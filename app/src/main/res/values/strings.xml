@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">AP2 Mobile</string>
+    <string name="app_logo">Logo do aplicativo</string>
+
+    <!-- Tela Inicial -->
+    <string name="welcome_title">Descubra seu Perfil de Investidor</string>
+    <string name="welcome_subtitle">Responda algumas perguntas rápidas para começar.</string>
+    <string name="enter_your_name">Digite seu nome</string>
+    <string name="start_quiz">Iniciar Quiz</string>
+    <string name="please_enter_name">Por favor, digite seu nome.</string>
+
+    <!-- Perguntas e Opções -->
+    <string name="question_1">Qual seu principal objetivo ao investir?</string>
+    <string name="q1_option_a">Preservar meu patrimônio, mesmo que a rentabilidade seja baixa.</string>
+    <string name="q1_option_b">Aumentar meu capital gradualmente, com um equilíbrio entre segurança e retorno.</string>
+    <string name="q1_option_c">Maximizar o retorno, mesmo que isso envolva mais riscos.</string>
+
+    <string name="question_2">Por quanto tempo você pretende manter seus investimentos?</string>
+    <string name="q2_option_a">Menos de 1 ano.</string>
+    <string name="q2_option_b">Entre 1 e 5 anos.</string>
+    <string name="q2_option_c">Mais de 5 anos.</string>
+
+    <string name="question_3">Como você descreveria seu conhecimento sobre o mercado financeiro?</string>
+    <string name="q3_option_a">Iniciante, estou começando a aprender.</string>
+    <string name="q3_option_b">Razoável, entendo os conceitos básicos.</string>
+    <string name="q3_option_c">Avançado, acompanho o mercado e conheço diferentes produtos.</string>
+
+    <string name="question_4">Se seus investimentos caíssem 10%, o que você faria?</string>
+    <string name="q4_option_a">Venderia tudo para evitar mais perdas.</string>
+    <string name="q4_option_b">Manteria a posição, pois entendo que o mercado oscila.</string>
+    <string name="q4_option_c">Compraria mais, aproveitando os preços baixos.</string>
+
+    <string name="question_5">Qual percentual do seu patrimônio você se sente confortável em alocar em investimentos de maior risco (como ações)?</string>
+    <string name="q5_option_a">Até 10%.</string>
+    <string name="q5_option_b">Entre 10% e 30%.</string>
+    <string name="q5_option_c">Acima de 30%.</string>
+
+    <!-- Tela de Resultado -->
+    <string name="congratulations_name">Parabéns, %1$s!</string>
+    <string name="your_profile_is">Seu perfil de investidor é</string>
+    <string name="profile_icon">Ícone do perfil</string>
+    <string name="learn_more">Saiba Mais Sobre Perfis</string>
+    <string name="restart_quiz">Refazer Quiz</string>
+
+    <string name="profile_conservative">Conservador</string>
+    <string name="desc_conservative">Você prioriza a segurança acima de tudo. Sua tolerância a perdas é baixa e você prefere investimentos com liquidez e baixo risco.</string>
+    <string name="profile_moderate">Moderado</string>
+    <string name="desc_moderate">Você busca um equilíbrio entre segurança e rentabilidade. Aceita correr alguns riscos calculados para obter retornos melhores no médio e longo prazo.</string>
+    <string name="profile_aggressive">Arrojado</string>
+    <string name="desc_aggressive">Seu foco principal é a rentabilidade. Você tem alta tolerância ao risco e entende que perdas de curto prazo podem levar a grandes ganhos no futuro.</string>
+
+    <!-- Genéricos -->
+    <string name="next">Próxima</string>
+    <string name="view_result">Ver Resultado</string>
+    <string name="select_an_option">Por favor, selecione uma opção.</string>
+    <string name="answer_all_questions">Por favor, responda a todas as perguntas.</string>
+</resources>
